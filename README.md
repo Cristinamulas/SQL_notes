@@ -1,1 +1,2 @@
-# SQL_notes
+# Common MySQL Queries
+Basic queries for future reference.
